@@ -1,1 +1,0 @@
-# this will regulate all frequency in terms of time
